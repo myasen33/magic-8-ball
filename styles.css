@@ -1,0 +1,27 @@
+body {
+background-color: #A248ED;
+
+}
+
+h1{
+  font-size: 60px;
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+p{
+  font-size: 30px;
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+
+button{
+  text-align: center;
+  width: 150px;
+  height: 60px;
+  border-radius: 40px;
+  font-size: 13px;
+  font-family: 'Patua One', cursive;
+}
+h2{
+  font-family: 'Patua One', cursive;
+}
